@@ -5,12 +5,12 @@ export default {
     fields:[
         {
             name: 'turno_manha',
-            type: 'number',
+            type: 'string',
             title: 'Turno Manhã'
         },
         {
             name: 'turno_tarde',
-            type: 'number',
+            type: 'string',
             title: 'Turno Tarde'
         },
         {
