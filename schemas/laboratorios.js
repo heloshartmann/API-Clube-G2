@@ -15,7 +15,7 @@ export default {
         },
         {
             name: 'descricao',
-            type: 'number',
+            type: 'string',
             title: 'Descrição'
         }
     ]
