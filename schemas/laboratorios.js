@@ -9,14 +9,24 @@ export default {
             title: 'Titulo'
         },
         {
-            name: 'imagem',
+            name: 'descricao',
+            type: 'string',
+            title: 'Descrição'
+        },
+        {
+            name: 'imagem1',
             type: 'image',
             title: 'Imagem'
         },
         {
-            name: 'descricao',
-            type: 'number',
-            title: 'Descrição'
+            name: 'imagem2',
+            type: 'image',
+            title: 'Imagem'
+        },
+        {
+            name: 'imagem3',
+            type: 'image',
+            title: 'Imagem'
         }
     ]
 }
