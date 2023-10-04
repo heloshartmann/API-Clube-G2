@@ -15,13 +15,15 @@ export default {
         },
         {
             name: 'dias_semana',
-            type: 'string',
-            title: 'Dias da semana'
+            title: 'Dias da semana',
+            type: 'array',
+            of: [{type: 'string'}]
         },
         {
             name: 'turma',
-            type: 'string',
-            title: 'Turma'
+            title: 'Turma',
+            type: 'array',
+            of: [{type: 'string'}]
         }
     ]
 }
