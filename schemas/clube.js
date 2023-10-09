@@ -14,12 +14,12 @@ export default {
             title: 'Imagem'
         },
         {
-            name: 'faixa_idade_inicio',
+            name: 'faixa_idade_fim',
             type: 'number',
             title: 'Faixa de Idade fim'
         },
         {
-            name: 'faixa_idade_fim',
+            name: 'faixa_idade_inicio',
             type: 'number',
             title: 'Faixa de Idade inicio'
         },
