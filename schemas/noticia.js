@@ -15,8 +15,8 @@ export default{
         },
         {
             name: 'conteudo',
-            type: 'string',
-            title: 'Conteudo'
+            title: 'Conteudo',
+            type: 'string'
         },
         {
             name: 'imagem',
@@ -25,7 +25,7 @@ export default{
         },
         {
             name: 'data',
-            type: 'string',
+            type: 'date',
             title: 'Data Publicação'
         }
     ]
