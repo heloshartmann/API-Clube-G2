@@ -2,7 +2,7 @@ export default {
     name: 'lista_premios',
     type: 'document',
     title: 'Lista Premios',
-    fields:[
+    fields: [
         {
             name: 'imagem',
             type: 'image',
@@ -12,6 +12,11 @@ export default {
             name: 'descricao',
             type: 'string',
             title: 'Descrição'
+        },
+        {
+            name: 'titulo',
+            type: 'string',
+            title: 'Título'
         }
     ]
 }
