@@ -16,7 +16,7 @@ export default{
         {
             name: 'conteudo',
             type: 'string',
-            title: 'Conteúdo',
+            title: 'Conteúdo (use " § ")',
           },
         {
             name: 'imagem',
