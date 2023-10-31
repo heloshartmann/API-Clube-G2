@@ -16,7 +16,7 @@ export default{
         {
             name: 'conteudo',
             type: 'string',
-            title: 'Conteúdo (use " § ")',
+            title: 'Conteúdo (use " § " para a quebra de linha)',
           },
         {
             name: 'imagem',
