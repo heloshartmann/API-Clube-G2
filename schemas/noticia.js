@@ -15,9 +15,9 @@ export default{
         },
         {
             name: 'conteudo',
-            title: 'Conteudo',
-            type: 'string'
-        },
+            type: 'string',
+            title: 'Conteúdo',
+          },
         {
             name: 'imagem',
             type: 'image',
