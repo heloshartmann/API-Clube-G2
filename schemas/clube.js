@@ -4,24 +4,24 @@ export default {
     title: 'Clube',
     fields:[
         {
-            name: 'descricao',
-            type: 'string',
-            title: 'Descrição'
-        },
-        {
             name: 'imagem',
             type: 'image',
             title: 'Imagem'
         },
         {
-            name: 'faixa_idade_fim',
-            type: 'number',
-            title: 'Faixa de Idade fim'
+            name: 'descricao',
+            type: 'string',
+            title: 'Descrição'
         },
         {
             name: 'faixa_idade_inicio',
             type: 'number',
             title: 'Faixa de Idade inicio'
+        },
+        {
+            name: 'faixa_idade_fim',
+            type: 'number',
+            title: 'Faixa de Idade fim'
         },
         {
             name: 'horarios',

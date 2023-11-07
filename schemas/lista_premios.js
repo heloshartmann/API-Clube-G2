@@ -4,9 +4,9 @@ export default {
     title: 'Lista Premios',
     fields: [
         {
-            name: 'imagem',
-            type: 'image',
-            title: 'Imagem'
+            name: 'titulo',
+            type: 'string',
+            title: 'Título'
         },
         {
             name: 'descricao',
@@ -14,9 +14,9 @@ export default {
             title: 'Descrição'
         },
         {
-            name: 'titulo',
-            type: 'string',
-            title: 'Título'
+            name: 'imagem',
+            type: 'image',
+            title: 'Imagem'
         }
     ]
 }

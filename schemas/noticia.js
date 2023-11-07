@@ -19,14 +19,14 @@ export default{
             title: 'Conteudo'
         },
         {
-            name: 'imagem',
-            type: 'image',
-            title: 'Imagem'
-        },
-        {
             name: 'data',
             type: 'string',
             title: 'Data Publicação'
+        },
+        {
+            name: 'imagem',
+            type: 'image',
+            title: 'Imagem'
         }
     ]
 }
