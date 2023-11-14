@@ -19,14 +19,14 @@ export default{
             title: 'Conteúdo (use " § " para a quebra de linha)',
           },
         {
-            name: 'imagem',
-            type: 'image',
-            title: 'Imagem'
-        },
-        {
             name: 'data',
             type: 'date',
             title: 'Data Publicação'
+        },
+        {
+            name: 'imagem',
+            type: 'image',
+            title: 'Imagem'
         }
     ]
 }
